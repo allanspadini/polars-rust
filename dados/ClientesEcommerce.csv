@@ -1,0 +1,101 @@
+ID,Nome,Telefone,Email,Rua_Numero,Bairro,Cidade,Estado,Valor gasto 
+1,Lucas Moura,1198765432,lucas.moura@email.com,"Sítio de Cardoso, 49",Manacas,Lima,São Paulo,29017
+2,Julia Andrade,219876543,julia.andrade@email.com,"Trecho Mariane Teixeira, 90",Santo André,Monteiro,Tocantins,7834
+3,Rafael Dias,319876543,rafael.dias@email.com,"Setor de Duarte, 114",Serra,Sales da Praia,Paraíba,4071
+4,Carla Souza,419876543,carla.souza@email.com,"Recanto Ana Lívia Lopes, 53",Vila Suzana Primeira Seção,das Neves,Pará,17512
+5,Felipe Neto,519876543,felipe.neto@email.com,"Jardim de Monteiro, 11",Alto Das Antenas,Souza,São Paulo,24307
+6,Camila Rocha,619876543,camila.rocha@email.com,"Pátio Leonardo Nunes, 18",São Marcos,Cardoso do Norte,Maranhão,7894
+7,André Lima,719876543,andre.lima@email.com,Distrito Mendes,Ventosa,Moraes,Sergipe,30894
+8,Fernanda Costa,819876543,fernanda.costa@email.com,"Jardim de Nogueira, 59",Aparecida 7ª Seção,Campos do Sul,Roraima,4692
+9,Roberto Silva,919876543,roberto.silva@email.com,"Vereda Vitor Gabriel Moura, 694",Conjunto Celso Machado,Almeida do Oeste,Rio de Janeiro,37249
+10,Igor Rodrigues,435602751,novaesclara@ig.com.br,"Setor Cardoso, 54",São Benedito,das Neves,Goiás,10310
+11,Eloah Pereira,521777811,diegocardoso@aragao.org,"Trevo Luiz Henrique Novaes, 5",São José,Viana,Pará,8614
+12,Maria Eduarda Cardoso,856983179,iferreira@hotmail.com,"Colônia Bruno Ribeiro, 38",Vila São Geraldo,Carvalho,Amazonas,34522
+13,Stella Aragão,722925182,moreiralivia@rocha.org,Rua Gustavo Henrique Monteiro,Tres Marias,Rodrigues Verde,Rio de Janeiro,32013
+14,Ana Carolina Melo,498801871,azevedomaria-luiza@oliveira.com,"Passarela Felipe Azevedo, 53",Aeroporto,Fernandes do Sul,Rio de Janeiro,46130
+15,Bernardo Castro,368947411,vitoria57@uol.com.br,"Campo Agatha Monteiro, 43",Dom Bosco,da Rosa,Pará,11766
+16,Isabelly da Paz,569033767,bruna99@yahoo.com.br,Campo Marina Sales,Nova Vista,Pinto dos Dourados,Goiás,21561
+17,Ryan Freitas,519694685,pintodiogo@moura.br,"Sítio de Monteiro, 76",Alto Das Antenas,Moura,Minas Gerais,7990
+18,Lorenzo Lopes,544922987,enzo-gabriel06@silveira.com,Esplanada Rocha,Apolonia,Viana,Paraná,2246
+19,Stella Cavalcanti,625459585,pereirapaulo@martins.com,"Fazenda Silveira, 64",Pantanal,Nunes,Sergipe,27446
+20,Rafael Carvalho,517927527,jpinto@das.org,Trevo Eduardo da Conceição,Liberdade,Rezende,Ceará,45082
+21,Luna Teixeira,375261255,luna97@moraes.br,Trevo de Ribeiro,Bonsucesso,Silveira,Roraima,4569
+22,Isabel Viana,554387566,eribeiro@bol.com.br,"Lagoa de Mendes, 43",Jaraguá,da Cruz de Minas,Piauí,11437
+23,Dr. Bernardo da Rocha,465147774,pereirajulia@almeida.com,"Trevo Mirella da Cunha, 57",Dom Cabral,Cardoso do Norte,Sergipe,19901
+24,Davi Lucca da Conceição,373861040,slima@silveira.net,"Loteamento Davi Lucas Rocha, 31",Conjunto São Francisco De Assis,Cunha da Prata,Paraíba,43817
+25,Sra. Ana Julia da Luz,517503360,correialuana@freitas.com,"Esplanada Costa, 57",Vila Santa Rosa,Oliveira,Maranhão,19594
+26,Isabelly Aragão,257336738,vinicius93@ig.com.br,"Morro de Lima, 14",Vila Nova Cachoeirinha 1ª Seção,Santos dos Dourados,Amapá,28834
+27,Gabriela da Mata,580174387,gda-rosa@monteiro.br,"Via Silva, 65",Vila Rica,Rezende,Mato Grosso,49811
+28,Giovanna Barros,619223861,ecardoso@rocha.br,"Vale de Novaes, 98",Camponesa 1ª Seção,Ramos,Amapá,42412
+29,Milena da Cruz,590863518,rochapedro-henrique@yahoo.com.br,"Estação Vieira, 93",Piratininga,Rocha do Galho,Rondônia,46662
+30,Carlos Eduardo Farias,230002084,joao-vitor33@gmail.com,"Travessa da Luz, 46",Independência,Farias,Tocantins,4515
+31,André Cunha,856682023,joana29@bol.com.br,"Parque Fogaça, 14",Conjunto Minas Caixa,Azevedo de Goiás,Mato Grosso do Sul,12172
+32,Cauã Lopes,769503145,sabrina97@hotmail.com,"Feira Lavínia da Conceição, 42",João Pinheiro,Pinto de Lopes,Maranhão,10917
+33,Matheus Nogueira,716303971,maria-cecilia32@ig.com.br,Vila de Gomes,Barão Homem De Melo 2ª Seção,Araújo da Mata,Rio Grande do Sul,20983
+34,Ana Silveira,631434007,stella51@hotmail.com,"Travessa de Campos, 573",Grajaú,Moraes da Mata,Pará,17616
+35,Carlos Eduardo da Conceição,863976651,wteixeira@das.net,"Estrada Maria Eduarda Rodrigues, 3",Grotinha,Pereira do Amparo,Rondônia,30716
+36,Ana Carolina Mendes,371424615,meloalexandre@ferreira.com,"Estação de Costela, 76",Olhos D'água,Caldeira,Sergipe,24659
+37,Marcela Moreira,926621485,brunosilveira@santos.com,"Favela Gustavo Henrique Cunha, 2",Vila Paraíso,Azevedo,Ceará,6414
+38,Isabel Monteiro,237324769,freitasnicolas@peixoto.org,"Ladeira Kamilly da Paz, 47",Caetano Furquim,Barbosa,Pernambuco,5686
+39,Vitor Hugo Cardoso,861571938,rsales@dias.org,"Alameda de da Costa, 428",Santa Branca,da Costa,Rio de Janeiro,33782
+40,Clara Nogueira,192074105,bcostela@gmail.com,"Jardim Ryan Monteiro, 232",Jatobá,Monteiro,Pernambuco,27063
+41,Isabelly Nascimento,240935343,barrosdavi-luiz@araujo.com,"Esplanada de Vieira, 56",Pongelupe,da Mota,Tocantins,22099
+42,Beatriz Mendes,677476736,duarteluiz-gustavo@yahoo.com.br,"Fazenda Emanuel Gomes, 31",Camponesa 1ª Seção,Vieira do Amparo,Pernambuco,11839
+43,Bruna da Conceição,576587300,vpires@silveira.com,"Avenida Silveira, 95",Canaa,Silveira do Oeste,Tocantins,29614
+44,Gustavo Henrique da Costa,599646069,nascimentogiovanna@farias.com,"Trecho de da Mata, 92",Graça,Ramos de Goiás,Distrito Federal,17404
+45,Dra. Gabrielly Cavalcanti,917636847,lopesgiovanna@uol.com.br,"Loteamento Júlia Lima, 77",Savassi,Sales,Tocantins,24688
+46,Alexandre Ramos,824086834,costaaugusto@hotmail.com,"Viela Cardoso, 49",Vila Pilar,Moura do Sul,Acre,6542
+47,Fernanda da Cunha,311548816,maria-vitoria50@uol.com.br,"Estação Beatriz Sales, 88",Grotinha,Peixoto,Mato Grosso do Sul,14573
+48,Vinicius Moura,174664340,gabriel44@gmail.com,"Morro Pedro Lucas da Mata, 47",Vila Do Pombal,Martins,Pará,24399
+49,Leandro Barros,736588294,renanmoura@barbosa.net,Recanto de Dias,Liberdade,Gomes,Amazonas,3808
+50,Carolina Sales,476575805,fcorreia@carvalho.com,"Travessa de Moraes, 214",Capitão Eduardo,da Luz de Teixeira,Paraná,30372
+51,Alícia Nascimento,621621905,grezende@cardoso.org,"Via Enzo Pires, 265",João Alfredo,Pires do Amparo,Bahia,27442
+52,Arthur Martins,611759724,joao-miguel86@hotmail.com,"Via de Vieira, 98",Conjunto Califórnia Ii,Pinto,Paraná,3542
+53,Melissa Araújo,798162816,agathapires@lima.com,"Parque Vitor Hugo da Conceição, 17",Barroca,Gomes do Campo,Bahia,1727
+54,Stella Dias,371377020,nuneslorena@das.br,"Recanto de Rodrigues, 45",Vila Dos Anjos,Rocha,Paraná,38530
+55,Anthony Nunes,744286115,lbarros@hotmail.com,"Campo Araújo, 56",Leonina,Viana do Norte,Minas Gerais,46003
+56,André Lopes,372956289,dpires@silveira.br,Trevo de Lopes,Vila Jardim São José,Cardoso,Rio Grande do Sul,27967
+57,Ana Sophia Silva,979276845,julia02@rocha.com,"Campo Fernandes, 388",Vale Do Jatoba,Duarte de Pinto,Rondônia,33601
+58,Sr. Luiz Gustavo da Mata,574002960,vieirarafaela@yahoo.com.br,"Favela Bianca Ribeiro, 45",Vitoria,Barbosa,Distrito Federal,23478
+59,Pedro Peixoto,228018814,falmeida@moreira.br,"Lago de Freitas, 55",Concórdia,Lopes do Norte,Piauí,35710
+60,Raul Alves,976041427,joaoda-cunha@jesus.br,"Vereda Bruna Dias, 23",Bom Jesus,Carvalho,Maranhão,34093
+61,Joaquim Dias,337104886,heloisa72@goncalves.br,"Lago de Jesus, 95",Engenho Nogueira,Carvalho Verde,Alagoas,14452
+62,Luiz Fernando da Rosa,971667595,bda-rocha@barbosa.com,"Campo de Cunha, 8",Camponesa 2ª Seção,Mendes,Pernambuco,27214
+63,Yuri Souza,976031760,ifarias@dias.br,Fazenda Moura,Vila Nova Gameleira 3ª Seção,Campos,Distrito Federal,19135
+64,Isaac Novaes,348491568,heloisacampos@jesus.com,"Morro Sofia Carvalho, 50",Embaúbas,Aragão da Mata,Goiás,9903
+65,Sr. Kaique Oliveira,420802154,oliveiramaria-clara@hotmail.com,"Sítio de Ferreira, 35",Floresta,da Luz,Santa Catarina,42135
+66,Larissa Campos,644018625,mirella60@yahoo.com.br,"Aeroporto Fogaça, 950",São Benedito,Azevedo,Rondônia,8483
+67,Davi Luiz Pires,394735367,acastro@lopes.br,"Sítio de Nascimento, 69",Castanheira,da Rocha,Piauí,30326
+68,Theo Barbosa,329861136,calebe29@yahoo.com.br,"Jardim Noah da Rosa, 56",Bom Jesus,Teixeira,Ceará,10680
+69,Sr. Cauê Pereira,542748361,da-conceicaoaugusto@costela.br,"Feira de Nunes, 92",Vila Satélite,Alves,Rio Grande do Norte,2496
+70,Evelyn Alves,421636259,gnunes@ig.com.br,"Trevo de Correia, 16",Mantiqueira,Silva do Campo,Goiás,9817
+71,Ana Vitória Peixoto,397751885,jesusmarina@uol.com.br,"Trevo Francisco Pereira, 62",Santo Agostinho,da Rocha,Sergipe,1504
+72,Kevin Aragão,676976430,agatha44@nascimento.com,"Pátio Dias, 7",Vila Nova Gameleira 2ª Seção,Araújo,Paraná,22715
+73,Eloah Cavalcanti,116744811,fgoncalves@da.com,"Alameda Vieira, 77",Lagoa,Pereira de da Cruz,Pará,20285
+74,Pedro Miguel Almeida,921242401,felipealmeida@hotmail.com,"Colônia de Monteiro, 6",Silveira,Nogueira,Rio Grande do Norte,34530
+75,Luna Souza,365660856,nicolas52@yahoo.com.br,"Rua Gabriel Moraes, 347",Granja De Freitas,da Cunha,Santa Catarina,788
+76,Davi Cardoso,930849447,murilosouza@uol.com.br,"Recanto Olivia Cavalcanti, 106",Santa Sofia,Melo,Bahia,34513
+77,Sr. Cauã Aragão,414944659,pedro74@ferreira.br,"Favela Silveira, 149",Vila Independencia 3ª Seção,Pinto do Galho,São Paulo,35618
+78,Nina Caldeira,797953822,vitor-hugoaragao@costela.br,"Trevo Amanda Fernandes, 80",São Sebastião,Viana de Viana,Ceará,23521
+79,Vinicius Barbosa,626487052,viniciusda-cruz@almeida.br,"Estrada Campos, 4",Leonina,da Cruz de Fernandes,Roraima,9566
+80,Catarina Pinto,983818848,wramos@da.com,"Esplanada de Silva, 5",Mala E Cuia,Costa da Serra,Mato Grosso,21599
+81,Luiz Fernando Viana,832516531,da-luzmaria-eduarda@bol.com.br,"Largo de Martins, 187",Capitão Eduardo,Cavalcanti dos Dourados,Piauí,17211
+82,Sr. Lucca Oliveira,589692041,carvalhoclara@hotmail.com,"Conjunto Emanuel Moraes, 74",Santa Rosa,Silveira,Rio de Janeiro,35621
+83,Enzo Gabriel Cunha,745723919,pereiramaite@azevedo.org,"Quadra de Costa, 183",Lagoinha,Moreira das Flores,Rio Grande do Norte,20215
+84,Olivia Costa,268447616,qcostela@martins.br,"Morro Marcos Vinicius da Luz, 411",Santa Inês,Barbosa de Oliveira,Rondônia,42242
+85,Murilo Sales,495238733,milenasilva@bol.com.br,"Avenida Fernandes, 4",Lagoinha Leblon,Moraes do Oeste,Goiás,2466
+86,Heitor Caldeira,824840452,luiz-fernandosilva@freitas.br,Estação Dias,Vila Pilar,Rezende do Norte,Amapá,28147
+87,Erick Correia,392911205,carlos-eduardoda-cruz@melo.com,"Setor de Silveira, 44",Manacas,da Mota,Amapá,32705
+88,Giovanna Silva,617548824,camila02@rocha.org,Conjunto Amanda Costela,Bacurau,Alves,Paraná,40776
+89,Juliana Moreira,979516736,isaacfreitas@moraes.org,Alameda Elisa Lima,Alta Tensão 1ª Seção,Ribeiro Alegre,Espírito Santo,28141
+90,Srta. Luiza da Mota,138154704,da-rochaemanuella@bol.com.br,"Parque Silva, 9",Urca,Moreira de Minas,Distrito Federal,41221
+91,Rebeca Teixeira,386605485,ymartins@hotmail.com,"Largo de Jesus, 34",Palmeiras,Santos de Goiás,Rio Grande do Norte,5560
+92,Breno Costela,542527662,fernandoda-costa@da.br,"Trevo de Ferreira, 249",Calafate,Cavalcanti das Flores,Amapá,45988
+93,João Caldeira,427567537,da-pazian@vieira.br,Vila Nascimento,São Jorge 2ª Seção,Rezende,Minas Gerais,8466
+94,Dr. Bryan Araújo,527263480,fda-cunha@farias.org,"Praça Rodrigo Teixeira, 901",Vila Independencia 3ª Seção,Martins de Peixoto,Rondônia,40496
+95,Bianca Viana,339615400,sophia47@campos.com,"Via Aragão, 9",Madri,Campos da Mata,Maranhão,34097
+96,Ana Luiza Correia,538167065,heitor40@correia.net,"Passarela Pedro das Neves, 806",Vila Antena,Barbosa,Pará,9550
+97,Augusto Nascimento,650182026,luiz-fernando91@da.br,"Núcleo Teixeira, 1",Luxemburgo,Moraes Verde,Mato Grosso do Sul,22149
+98,Dr. Cauê Pires,328336491,azevedomelissa@bol.com.br,Ladeira Peixoto,Canaa,da Cruz das Pedras,Paraná,33236
+99,Lívia Novaes,250668069,caldeiramelissa@costa.com,"Travessa Lima, 82",Flamengo,Araújo,Ceará,42653
+100,João Felipe da Costa,795943438,helenacardoso@hotmail.com,"Viela de Cardoso, 87",Leticia,da Conceição de Fernandes,Roraima,20962
